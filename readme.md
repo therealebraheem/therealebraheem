@@ -11,8 +11,9 @@ Hey there!, Im Ebraheem.
 
 # ⚙️ Projects:
 
-https://github.com/therealebraheem/Gymlytics
-https://github.com/therealebraheem/Liverpool-Data-Analysis
+<h2> https://github.com/therealebraheem/Gymlytics</h2>
+<br>
+<h2>https://github.com/therealebraheem/Liverpool-Data-Analysis</h2>
 
 
 
