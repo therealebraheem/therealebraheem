@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-<p1>Hey there!, Im Ebraheem. Student. 🇺🇸</p1>
+<h3>Hey there!, Im Ebraheem. Student. 🇺🇸</h3>
 
 
 ## 🌐 Socials:
