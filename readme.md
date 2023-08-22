@@ -11,9 +11,6 @@
 
 # ⚙️ Projects:
 
-<h2> https://github.com/therealebraheem/Gymlytics</h2>
-<br>
-<h2>https://github.com/therealebraheem/Liverpool-Data-Analysis</h2>
 
 
 
